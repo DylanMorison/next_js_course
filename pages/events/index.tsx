@@ -5,7 +5,7 @@ import Layout from '../../components/Layout'
 const EventsPage = () => {
     return (
         <Layout>
-            <h1>Index</h1>
+            <h1>My events (index)</h1>
         </Layout>
     )
 }
